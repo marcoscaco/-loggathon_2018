@@ -1,63 +1,63 @@
-"COD", "NOME","LINHA", "RUA","NUMERO","RAIO ABRANGENCIA", "LAT", "LONG"
+"COD","NOME","LINHA","RUA","NUMERO","RAIO ABRANGENCIA","LAT","LONG"
 01,"JABAQUARA","1-AZUL", "R. dos Jequitibás", "80", 1,-23.64621,-46.64077
-01,"CONCEIÇÃO","1-AZUL","Av. Armando de Arruda Pereira","919",1,-23.63534, -46.64093
+01,"CONCEIÇÃO","1-AZUL","Av. Armando de Arruda Pereira","919",1,-23.63534,-46.64093
 01,"SÃO JUDAS","1-AZUL","Av. Jabaquara","2438",1,-23.62563,-46.64084
-01,"SAÚDE","1-AZUL","Av. Jabaquara","1634",1,-23.61856, -46.63937
-01,"PÇA DA ÁRVORE","1-AZUL","Praça da Árvore","39",1,-23.61039, -46.63794
-01,"SANTA CRUZ","1-AZUL","R. Domingos de Morais","2564",1,-23.59894, -46.63666
-01,"VILA MARIANA","1-AZUL","Av. Prof. Noé de Azevedo","255",1,-23.58949, -46.63444
-01,"ANA ROSA","1-AZUL","R. Domingos de Morais","505",1,-23.58153, -46.63866
-01,"VERGUEIRO","1-AZUL","R. Vergueiro","790",1,-23.56886, -46.63992
-01,"SAO JOAQUIM","1-AZUL","Av. Liberdade","1033",1,-23.56186, -46.63868
-01,"LIBERDADE","1-AZUL","Praça da Liberdade","133",1,-23.55531, -46.63563
-01,"SÃO BENTO","1-AZUL","Largo São Bento","109",1,-23.54439, -46.63413
-01,"LUZ","1-AZUL","Av. Prestes Maia","925",1,-23.53668, -46.63355
-01,"LUZ","4-AMARELA","Av. Prestes Maia","925",1,-23.53668, -46.63355
-01,"TIRADENTES","1-AZUL","Av. Tiradentes","551",1,-23.5311, -46.63222
-01,"ARMÊNIA","1-AZUL","R. Pedro Vicente","47",1,-23.52548, -46.62932
-01,"PORTUGUESA-TIETÊ","1-AZUL","Av. Cruzeiro do Sul","1.777",1,-23.51624, -46.62516
-01,"CARANDIRU","1-AZUL","Av. Cruzeiro do Sul","2.487",1,-23.50918, -46.62498
-01,"SANTANA","1-AZUL","Av. Cruzeiro do Sul","3.173,1,-23.50261, -46.62475
-01,"JARDIM SÃO PAULO-AYRTON Senna","1-AZUL","R. Leôncio de Magalhães","1000",1,-23.49228, -46.61665
-01,"PARADA INGLESA","1-AZUL","Av. Luiz Dumont Villares","1721",1,-23.48693, -46.60883
-01,"TUCURUVI","1-AZUL","Av. Antônio Maria de Laet","100",1,-23.48051, -46.60371
-01,"VILA PRUDENTE","2-VERDE","Av. Luiz Inácio de Anhaia Mello","1359",1,-23.58439, -46.58193
-01,"TAMANDUATEÍ","2-VERDE","Av. Presidente Wilson","4841",1,-23.59304, -46.58979
-01,"SACOMÃ","2-VERDE","R Agostinho Gomes","3501",1,-23.60322, -46.60308
-01,"ALTO DO IPIRANGA","2-VERDE","R. Dr. Gentil de Moura","217",1,-23.60202, -46.61243
-01,"SANTOS-IMIGRANTES","2-VERDE","Av. Dr. Ricardo Jafet","2500",1,-23.59594, -46.6207
-01,"CHÁCARA-KLABIN","2-VERDE","R. Vergueiro","3800",1,-23.59275, -46.63037
-01,"PARAÍSO","2-VERDE","R. Vergueiro", "1465",1,-23.57651, -46.64088,2
-01,"BRIGADEIRO","2-VERDE","Av. Paulista","",1,-23.56874, -46.64757
-01,"TRIANON-MASP","2-VERDE","Av. Paulista","",1,-23.56366, -46.65381
-01,"CONSOLAÇÃO","2-VERDE","Av. Paulista","",1,-23.55776, -46.66061
-01,"CLÍNICAS","2-VERDE","Av. Dr. Arnaldo","",1,-23.55405, -46.67088
-01,"SUMARÉ","2-VERDE","Av. Dr. Arnaldo","",1,-23.55074, -46.6779,
-01,"VILA MADALENA","2-VERDE","Praça Américo Jacomino","",1,-23.54674, -46.69093
-01,"CORINTHIANS-ITAQUERA","3-VERMELHA","Av. Projetada","",1,-23.54229, -46.4709
-01,"ARTUR ALVIM","3-VERMELHA","R. Dr. Luiz Ayres","",1,-23.54056, -46.48439
-01,"PATRIARCA","3-VERMELHA","Av. Antônio E. Carvalho","",1,-23.53115, -46.50143
-01,"GUILHERMINAESPERANÇA","3-VERMELHA","R. Astorga","",1,-23.52929, -46.51657
-01,"VILA MATILDE","3-VERMELHA","R. Cel. Pedro Dias de Campos","",1,-23.53182, -46.53112
-01,"PENHA","3-VERMELHA","Av. Conde Frontim","",1,-23.53352, -46.54258
-01,"CARRÃO","3-VERMELHA","Radial Leste x R. Apucarana","",1,-23.53781, -46.56413
+01,"SAÚDE","1-AZUL","Av. Jabaquara","1634",1,-23.61856,-46.63937
+01,"PÇA DA ÁRVORE","1-AZUL","Praça da Árvore","39",1,-23.61039,-46.63794
+01,"SANTA CRUZ","1-AZUL","R. Domingos de Morais","2564",1,-23.59894,-46.63666
+01,"VILA MARIANA","1-AZUL","Av. Prof. Noé de Azevedo","255",1,-23.58949,-46.63444
+01,"ANA ROSA","1-AZUL","R. Domingos de Morais","505",1,-23.58153,-46.63866
+01,"VERGUEIRO","1-AZUL","R. Vergueiro","790",1,-23.56886,-46.63992
+01,"SAO JOAQUIM","1-AZUL","Av. Liberdade","1033",1,-23.56186,-46.63868
+01,"LIBERDADE","1-AZUL","Praça da Liberdade","133",1,-23.55531,-46.63563
+01,"SÃO BENTO","1-AZUL","Largo São Bento","109",1,-23.54439,-46.63413
+01,"LUZ","1-AZUL","Av. Prestes Maia","925",1,-23.53668,-46.63355
+01,"LUZ","4-AMARELA","Av. Prestes Maia","925",1,-23.53668,-46.63355
+01,"TIRADENTES","1-AZUL","Av. Tiradentes","551",1,-23.5311,-46.63222
+01,"ARMÊNIA","1-AZUL","R. Pedro Vicente","47",1,-23.52548,-46.62932
+01,"PORTUGUESA-TIETÊ","1-AZUL","Av. Cruzeiro do Sul","1.777",1,-23.51624,-46.62516
+01,"CARANDIRU","1-AZUL","Av. Cruzeiro do Sul","2.487",1,-23.50918,-46.62498
+01,"SANTANA","1-AZUL","Av. Cruzeiro do Sul","3.173,1,-23.50261,-46.62475
+01,"JARDIM SÃO PAULO-AYRTON Senna","1-AZUL","R. Leôncio de Magalhães","1000",1,-23.49228,-46.61665
+01,"PARADA INGLESA","1-AZUL","Av. Luiz Dumont Villares","1721",1,-23.48693,-46.60883
+01,"TUCURUVI","1-AZUL","Av. Antônio Maria de Laet","100",1,-23.48051,-46.60371
+01,"VILA PRUDENTE","2-VERDE","Av. Luiz Inácio de Anhaia Mello","1359",1,-23.58439,-46.58193
+01,"TAMANDUATEÍ","2-VERDE","Av. Presidente Wilson","4841",1,-23.59304,-46.58979
+01,"SACOMÃ","2-VERDE","R Agostinho Gomes","3501",1,-23.60322,-46.60308
+01,"ALTO DO IPIRANGA","2-VERDE","R. Dr. Gentil de Moura","217",1,-23.60202,-46.61243
+01,"SANTOS-IMIGRANTES","2-VERDE","Av. Dr. Ricardo Jafet","2500",1,-23.59594,-46.6207
+01,"CHÁCARA-KLABIN","2-VERDE","R. Vergueiro","3800",1,-23.59275,-46.63037
+01,"PARAÍSO","2-VERDE","R. Vergueiro","1465",1,-23.57651,-46.64088
+01,"BRIGADEIRO","2-VERDE","Av. Paulista","",1,-23.56874,-46.64757
+01,"TRIANON-MASP","2-VERDE","Av. Paulista","",1,-23.56366,-46.65381
+01,"CONSOLAÇÃO","2-VERDE","Av. Paulista","",1,-23.55776,-46.66061
+01,"CLÍNICAS","2-VERDE","Av. Dr. Arnaldo","",1,-23.55405,-46.67088
+01,"SUMARÉ","2-VERDE","Av. Dr. Arnaldo","",1,-23.55074,-46.6779,
+01,"VILA MADALENA","2-VERDE","Praça Américo Jacomino","",1,-23.54674,-46.69093
+01,"CORINTHIANS-ITAQUERA","3-VERMELHA","Av. Projetada","",1,-23.54229,-46.4709
+01,"ARTUR ALVIM","3-VERMELHA","R. Dr. Luiz Ayres","",1,-23.54056,-46.48439
+01,"PATRIARCA","3-VERMELHA","Av. Antônio E. Carvalho","",1,-23.53115,-46.50143
+01,"GUILHERMINAESPERANÇA","3-VERMELHA","R. Astorga","",1,-23.52929,-46.51657
+01,"VILA MATILDE","3-VERMELHA","R. Cel. Pedro Dias de Campos","",1,-23.53182,-46.53112
+01,"PENHA","3-VERMELHA","Av. Conde Frontim","",1,-23.53352,-46.54258
+01,"CARRÃO","3-VERMELHA","Radial Leste x R. Apucarana","",1,-23.53781,-46.56413
 01,"TATUAPÉ","3-VERMELHA","Av. Melo Freire","",1,-23.54022, -46.57662
-01,"BELÉM","3-VERMELHA","Av. Alcântara Machado","",1,-23.54273, -46.58963
-01,"BRESSER-MOOCA","3-VERMELHA","R. do Hipódromo","",1,-23.54609, -46.6071
-01,"BRÁS","3-VERMELHA","R. Domingos Paiva","",1,-23.54786, -46.61587
-01,"PEDRO II","3-VERMELHA","Rua da Figueira","",1,-23.5497, -46.62591
-01,"SÉ","3-VERMELHA","Praça da Sé","",1,-23.55009, -46.63332,2
-01,"ANHANGABAÚ","3-VERMELHA","R. Formosa","",1,-23.55009, -46.63332,2
-01,"REPÚBLICA","3-VERMELHA","R. do Arouche","",1,-23.54401, -46.64237,
-01,"REPÚBLICA","4-AMARELA","R. do Arouche","",1,-23.54401, -46.64237,
-01,"SANTA CECÍLIA","3-VERMELHA","Largo Santa Cecília","",1,-23.53915, -46.64926
-01,"MARECHAL DEODORO","3-VERMELHA","Praça Marechal Deodoro","",1,-23.53396, -46.65594
-01,"PALMEIRAS-BARRA FUNDA","3-VERMELHA","R. Bento Teobaldo Ferraz","",1,-23.52547, -46.66728
-01,"Higienópolis–Mackenzie","4-AMARELA","R. da Consolação","1201",1,-23.54919, -46.65215
-01,"Paulista","4-AMARELA","R. da Consolação","2367",1,-23.55527, -46.66203
-01,"Oscar Freire","4-AMARELA","Rua Oscar Freire", "1237",1,-23.56106, -46.67163
-01,"Fradique Coutinho","4-AMARELA","R. dos Pinheiros", "623",1,-23.56616, -46.68423
-01,"Faria Lima","4-AMARELA","‎Avenida Brigadeiro Faria Lima","950",1,-23.56714, -46.69378
-01,"Pinheiros","4-AMARELA","R. Capri","145",1,-23.56651, -46.70292
-01,"Butantã","4-AMARELA","‎Av. Vital Brasil × Rua Pirajussara","",1,-23.57183, -46.70809
-01,"São Paulo–Morumbi","4-AMARELA","Av. Jorge João Saad","11",1,-23.58612, -46.72345
+01,"BELÉM","3-VERMELHA","Av. Alcântara Machado","",1,-23.54273,-46.58963
+01,"BRESSER-MOOCA","3-VERMELHA","R. do Hipódromo","",1,-23.54609,-46.6071
+01,"BRÁS","3-VERMELHA","R. Domingos Paiva","",1,-23.54786,-46.61587
+01,"PEDRO II","3-VERMELHA","Rua da Figueira","",1,-23.5497,-46.62591
+01,"SÉ","3-VERMELHA","Praça da Sé","",1,-23.55009,-46.63332
+01,"ANHANGABAÚ","3-VERMELHA","R. Formosa","",1,-23.55009,-46.63332
+01,"REPÚBLICA","3-VERMELHA","R. do Arouche","",1,-23.54401,-46.64237,
+01,"REPÚBLICA","4-AMARELA","R. do Arouche","",1,-23.54401,-46.64237,
+01,"SANTA CECÍLIA","3-VERMELHA","Largo Santa Cecília","",1,-23.53915,-46.64926
+01,"MARECHAL DEODORO","3-VERMELHA","Praça Marechal Deodoro","",1,-23.53396,-46.65594
+01,"PALMEIRAS-BARRA FUNDA","3-VERMELHA","R. Bento Teobaldo Ferraz","",1,-23.52547,-46.66728
+01,"Higienópolis–Mackenzie","4-AMARELA","R. da Consolação","1201",1,-23.54919,-46.65215
+01,"Paulista","4-AMARELA","R. da Consolação","2367",1,-23.55527,-46.66203
+01,"Oscar Freire","4-AMARELA","Rua Oscar Freire", "1237",1,-23.56106,-46.67163
+01,"Fradique Coutinho","4-AMARELA","R. dos Pinheiros", "623",1,-23.56616,-46.68423
+01,"Faria Lima","4-AMARELA","‎Avenida Brigadeiro Faria Lima","950",1,-23.56714,-46.69378
+01,"Pinheiros","4-AMARELA","R. Capri","145",1,-23.56651,-46.70292
+01,"Butantã","4-AMARELA","‎Av. Vital Brasil × Rua Pirajussara","",1,-23.57183,-46.70809
+01,"São Paulo–Morumbi","4-AMARELA","Av. Jorge João Saad","11",1,-23.58612,-46.72345
