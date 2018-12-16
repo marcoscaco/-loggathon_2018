@@ -1,6 +1,6 @@
 Uma ferramenta para gerencia
 
-IDICA OS MELHORES LOCAIS PARA EXPANSÃO DOS SERVIÇOS DA LOGGI
+INDICA OS MELHORES LOCAIS PARA EXPANSÃO DOS SERVIÇOS DA LOGGI
         -> XD
         -> Hubs Locais
         -> Loggiboxes
@@ -37,3 +37,9 @@ Seguindo os critérios de
         (Bike|Caminhando|Patinete)
         -> Uma alternativa a muitos "Deu ruim - destinatario ausente" 
         (pacote pode ser deixado em uma LoggiBox pelo entregador da Loggi para ser retidado depois pelo destinatário)
+
+CODIGOS PARA LOGGIBOXES
+01 - BOX_METRO_nomedaestacao
+02 - BOX_RUA_nomedarua
+03 - BOX_SUBRUA_nomedarua
+04 - BOX_PARCEIRO_nomedarua_nomeparceiro
